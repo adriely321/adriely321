@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🫶💓
 
-<!--
-**adriely321/adriely321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ketelin
 
-Here are some ideas to get you started:
+- Vim com a indicação de estudar, com o [Alura](https://www.alura.com.br)
+- Vim me desenvolver na linguagens JavaScript
+- Estou utilizando esse espaço para reorganizar e compartilhar os meus projetos como desenvolvinto 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Se quiseres pode entrar em contanto comigo 📬
+ketelin.deus.ramalho@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/MCBkr6dWLkUAAAAd/corinthians-rodrigo-garro.gif)
+![](https://media1.tenor.com/m/fD-irLa-U70AAAAC/wesly-wesly-gassova.gif)
