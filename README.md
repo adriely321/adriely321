@@ -4,7 +4,7 @@ Meu nome é Ketelin
 
 - Vim com a indicação de estudar, com o [Alura](https://www.alura.com.br)
 - Vim me desenvolver na linguagens JavaScript
-- Estou utilizando esse espaço para reorganizar e compartilhar os meus projetos como desenvolvinto 
+- Estou utilizando esse espaço para reorganizar e compartilhar os meus projetos que foram desenvolvido 
 
 ### Se quiseres pode entrar em contanto comigo 📬
 ketelin.deus.ramalho@escola.pr.gov.br
